@@ -1,13 +1,29 @@
 ---
-layout: page
-title: About Me
+layout: default
+title: About
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+## About This Project
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+This site was built by [MA Raza](https://www.linkedin.com/in/amjadraza/) and inspired by [covid19dashboards](https://covid19dashboards.com/about/). The purpose of this website is to offer community to publish the analysis easily.  
 
+The contributions are welcomed. Please read the contributiion guide __TOBEADDED__
 
+**This website is powered by [fastpages](https://github.com/fastai/fastpages)**, a blogging platform that natively supports Jupyter notebooks in addition to other formats.[^1] View [this project on GitHub](https://github.com/github/covid19-dashboard).
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+## Contributing
+
+Do you have a visualization that you would like to add? Or would you like to improve or fix an existing visualization?  
+
+**Please see the [Contributing Guide](https://github.com/github/covid19-dashboard/blob/master/CONTRIBUTING.md).**
+
+You can also [get in touch](https://www.linkedin.com/in/amjadraza/) if you have any questions.
+
+## Background
+
+The motivation about this website is to help contributor participating in [PK-COVID19-HACKATHON](https://opendata.com.pk/pages/covid19) easily publish their findings or write blogs easily.
+
+---
+
+[^1]: Familiarity with [fastpages](https://github.com/fastai/fastpages) is helpful. All you need to do is [include the appropriate front matter](https://github.com/fastai/fastpages#customizing-blog-posts-with-front-matter) in your notebook. You can submit a pull request at [github.com/github/covid19-dashboard](https://github.com/github/covid19-dashboard).
