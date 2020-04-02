@@ -10,7 +10,7 @@
 
 ### Background
 
-This project is to support the vibrant community of developers to share their insights about the spread of COVID19
+This project is to support the vibrant community of Researchers/Developers/Dat Analysts/Policy Makers/ to share their insights about the spread of COVID19
 in Pakistan. The motivation about this website is to help contributor participating in [PK-COVID19-HACKATHON](https://opendata.com.pk/pages/covid19) easily publish their findings or write blogs easily.
 
 
