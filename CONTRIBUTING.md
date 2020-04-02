@@ -2,7 +2,7 @@
 
 Pre-requisite to contributing is familiarity with Jupyter notebooks, markdown scripting language, Git and fastpages.
 
-> happy to provide guidlines for keen contributors
+> Happy to provide guidlines for keen contributors
 
 We highly encourage contributions to this project and welcome PRs.
 

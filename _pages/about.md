@@ -6,17 +6,17 @@ permalink: /about/
 
 ## About This Project
 
-This site was built by [MA Raza](https://www.linkedin.com/in/amjadraza/) and inspired by [covid19dashboards](https://covid19dashboards.com/about/). The purpose of this website is to offer community to publish the analysis easily.  
+This site was built by [MA Raza](https://www.linkedin.com/in/amjadraza/) and inspired by [covid19dashboards](https://covid19dashboards.com/about/). The purpose of this website is to offer community to publish the analysis easily.
 
-The contributions are welcomed. Please read the contributiion guide __TOBEADDED__
+The contributions are welcomed. Please read the [contribution guide](https://github.com/amjadraza/pk-covid19/blob/master/CONTRIBUTING.md)
 
 **This website is powered by [fastpages](https://github.com/fastai/fastpages)**, a blogging platform that natively supports Jupyter notebooks in addition to other formats.[^1] View [this project on GitHub](https://github.com/github/covid19-dashboard).
 
 ## Contributing
 
-Do you have a visualization that you would like to add? Or would you like to improve or fix an existing visualization?  
+Do you have a visualization that you would like to add? Or would you like to improve or fix an existing visualization?
 
-**Please see the [Contributing Guide](https://github.com/github/covid19-dashboard/blob/master/CONTRIBUTING.md).**
+**Please see the [Contributing Guide](https://github.com/amjadraza/pk-covid19/blob/master/CONTRIBUTING.md).**
 
 You can also [get in touch](https://www.linkedin.com/in/amjadraza/) if you have any questions.
 
