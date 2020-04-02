@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Related
+title: Resources
 permalink: /resources/
 ---
 
