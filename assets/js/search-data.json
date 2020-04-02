@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "COVID-19 Growth By State (PAK)",
-            "content": "country_data_url = &quot;https://covidapi.info/api/v1/country/PAK/timeseries/2020-03-15/2020-03-20&quot; r = requests.get(country_data_url) df = pd.DataFrame(r.json()[&#39;result&#39;]) # df[&#39;date&#39;] = pd.to_datetime(df.date, format=&quot;%Y%m%d&quot;) df = df[[&#39;date&#39;, &#39;confirmed&#39;, &#39;deaths&#39;, &#39;recovered&#39;]].sort_values(&#39;date&#39;) . df[&#39;current&#39;] = df[&#39;confirmed&#39;] - df[&#39;recovered&#39;] - df[&#39;deaths&#39;] . df.head() . date confirmed deaths recovered current . 0 2020-03-15 | 53 | 0 | 2 | 51 | . 1 2020-03-16 | 136 | 0 | 2 | 134 | . 2 2020-03-17 | 236 | 0 | 2 | 234 | . 3 2020-03-18 | 299 | 0 | 2 | 297 | . 4 2020-03-19 | 454 | 2 | 13 | 439 | . px.line(df, x = &#39;date&#39;, y=&#39;confirmed&#39;, title=&#39;PAK: Confirmed covide cases over time&#39;) . . . This visualization was made by [MA Raza] . .",
+            "title": "COVID-19 Growth PAK",
+            "content": "Number of confirmed Cases . . . This visualization was made by [MA Raza] . .",
             "url": "https://amjadraza.github.io/pk-covid19/growth-pk/",
             "relUrl": "/growth-pk/",
             "date": " • Apr 2, 2020"
