@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About This Project
 
-This site was built by [MA Raza](https://www.linkedin.com/in/amjadraza/), [Hasan Nasir](https://www.linkedin.com/in/hasan-nasir-3176a487/) and [Waqar Baig](https://www.linkedin.com/in/waqar-baig-a5041428/) . The purpose of this website is to offer community to publish the analysis easily.
+This site was built by [MA Raza](https://www.linkedin.com/in/amjadraza/), [Hasan Nasir](https://www.linkedin.com/in/hasan-nasir-3176a487/), [Shan E Ahmed Raza](https://www.linkedin.com/in/shan-e-ahmed-raza-73360613/) and [Waqar Baig](https://www.linkedin.com/in/waqar-baig-a5041428/) . The purpose of this website is to offer community to publish the analysis easily.
 
 The contributions are welcomed. Please read the [contribution guide](https://github.com/amjadraza/pk-covid19/blob/master/CONTRIBUTING.md)
 
