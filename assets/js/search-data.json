@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "COVID-19 Growth PAK",
-            "content": "Number of confirmed Cases . . .",
+            "content": "df = df.set_index(&#39;date&#39;) data = df.stack().reset_index() data.columns = [&#39;date&#39;, &#39;cat&#39;, &#39;count&#39;] daily_data = (df - df.shift(1)).stack().reset_index() daily_data.columns = [&#39;date&#39;, &#39;cat&#39;, &#39;count&#39;] . Number of confirmed Cases . . . . . . .",
             "url": "https://pk-covid19.com/growth-pk/",
             "relUrl": "/growth-pk/",
             "date": " • Apr 2, 2020"
